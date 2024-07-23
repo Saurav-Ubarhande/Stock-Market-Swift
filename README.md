@@ -3,7 +3,7 @@ This iOS app allows users to search for stock information using the Finnhub Stoc
 
 **Technology Stack:**<br/>
 Frontend: Swift, HighCharts<br/>
-Backend: Flask<br/>
+Backend: Node.js, Express <br/>
 APIs: Finnhub Stock API, Polygon.io API
 
 **Project Demo**: [Stock Market Swift App](https://www.youtube.com/watch?v=L66amPhUepc&list=LL&index=1&t=84s)
